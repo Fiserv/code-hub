@@ -1,6 +1,6 @@
 {
   "title": "Code Hub",
-  "name": "code-hub",
+  "name": "CodeHub",
   "brand": "Fiserv",
   "brandLogoURL": "https://raw.githubusercontent.com/Fiserv/Banking-Product-Cards/develop/assets/images/4_Cards-min%20copy.jpg",
   "solution": ["fiserv-developer-resources"],
@@ -22,13 +22,13 @@
     "logoURL": "",
     "description": "Developer Studio Support pages",
     "longDescription": "Developer Studio Support pages",
-    "layout": "/v1/layouts/code-hub",
-    "documentation": "/v1/docs/code-hub",
-    "documenttree": "/v1/docs/code-hub",
-    "documenttreeV2": "/v2/docs/code-hub",
-    "sandbox": "/v2/sandboxrun/code-hub",
-    "accessConfig": "/v1/fileAccess/code-hub",
-    "assets": "/v1/assets/code-hub",
+    "layout": "/v1/layouts/CodeHub",
+    "documentation": "/v1/docs/CodeHub",
+    "documenttree": "/v1/docs/CodeHub",
+    "documenttreeV2": "/v2/docs/CodeHub",
+    "sandbox": "/v2/sandboxrun/CodeHub",
+    "accessConfig": "/v1/fileAccess/CodeHub",
+    "assets": "/v1/assets/CodeHub",
     "feature": [
       {
         "name": "plugins",
